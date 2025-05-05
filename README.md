@@ -2,7 +2,8 @@
 <h3 align="center">Creative Coder | Frontend Developer | Python & Java Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Frontend+Developer+%7C+UI%2FUX+Design+%7C+Smart+Systems;Python+%7C+Java+%7C+SQL+%7C+Arduino;Crafting+Smart+Solutions+One+Line+at+a+Time+🚀" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=650&lines=Frontend+Developer+%7C+UI%2FUX+Design+%7C+Smart+Systems;Python+%7C+Java+%7C+SQL+%7C+Arduino;Crafting+Smart+Solutions+One+Line+at+a+Time+🚀" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
