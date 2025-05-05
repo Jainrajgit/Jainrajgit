@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jain Raj A</h1>
-<h3 align="center">Frontend Developer | Python & Java Enthusiast | UI/UX Explorer</h3>
+<h1 align="center">Hey there 👋, I'm Jain Raj A</h1>
+<h3 align="center">Creative Coder | Frontend Developer | Python & Java Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Frontend+Developer+%7C+UI%2FUX+Design+%7C+Smart+Systems;Python+%7C+Java+%7C+SQL+%7C+Arduino;Welcome+to+My+GitHub+Universe+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Frontend+Developer+%7C+UI%2FUX+Design+%7C+Smart+Systems;Python+%7C+Java+%7C+SQL+%7C+Arduino;Crafting+Smart+Solutions+One+Line+at+a+Time+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,36 +14,32 @@
 
 ---
 
-## 🧠 About Me
+## 🧩 Profile Snapshot
 
-- 🎓 Completed **B.E. Computer Science and Engineering** at P.A. College of Engineering & Technology (2021–2025)
-- 💡 Passionate about **UI/UX design**, **responsive frontend development**, and **smart systems**
-- 🌍 Based in **Pollachi, Tamil Nadu**, fluent in **Tamil**, **English**, and **Malayalam**
-- ⚙️ Currently exploring **IoT**, **AI-driven systems**, and **design prototyping tools**
-- 🎯 My mission: *Solving real-world problems through intelligent tech solutions*
-
-
-
-
-## 🚀 Featured Projects
-
-### 🧠 Eye Disease Detection System  
-*Deep Learning with Python (LSTM)*  
-A smart model that analyzes retinal scans to detect and classify eye diseases.
-
-### 💡 Intelligent Gesture-Based Lighting  
-*Python + Arduino IDE*  
-A contactless lighting system using hand gestures and sensor-based control.
-
-### 🏪 Store Management System  
-*Tkinter + SQLite*  
-A GUI application for efficient retail store sales and inventory tracking.
+- 🎓 **B.E. Computer Science and Engineering**, P.A. College of Engineering & Technology (2021–2025)
+- 💡 Passionate about **UI/UX design**, **responsive frontend dev**, and **smart tech systems**
+- 🌐 Based in **Pollachi, Tamil Nadu** | Fluent in **Tamil**, **English**, and **Malayalam**
+- 🔍 Currently exploring **IoT**, **AI-powered solutions**, and **design tools** like Figma
+- 🛠 Mission: *Building tech that solves real-world problems with elegance and intelligence*
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### 👨‍💻 Languages & Scripting  
+### 🧠 **Eye Disease Detection System**  
+*A deep learning model using Python + LSTM to detect retinal diseases from scan images.*
+
+### 💡 **Gesture-Based Lighting System**  
+*Contactless lighting using hand gestures, sensors & Arduino.*
+
+### 🛒 **Retail Store Management App**  
+*Tkinter + SQLite-powered GUI app for sales and inventory tracking.*
+
+---
+
+## 💻 Tech Toolbox
+
+### 🧠 Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -51,34 +47,34 @@ A GUI application for efficient retail store sales and inventory tracking.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🎨 Design & Tools  
+### 🎨 Design & Dev Tools  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ---
 
-## 🧾 Certifications
+## 📜 Certifications
 
-- Python Masterclass (Udemy)  
-- Python with Flask (Udemy)  
-- Web Development, DBMS, and UI/UX (Great Learning & Others)  
-
----
-
-## 🏆 Leadership & Extracurriculars
-
-- 🏐 Zonal Winner – Throwball Championship  
-- 🏅 District Level Throwball Player  
-- 🧑‍💼 Executive Member – Association of CSE (2023–2025)  
-- 🤝 NSS Member  
+- ✅ Python Masterclass – *Udemy*  
+- ✅ Python with Flask – *Udemy*  
+- ✅ Web Development, DBMS, UI/UX – *Great Learning & Others*
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Leadership & Extracurriculars
+
+- 🏐 Zonal Winner – **Throwball Championship**
+- 🏅 District-Level Athlete – **Throwball**
+- 👨‍💼 Executive Member – *Association of CSE (2023–2025)*
+- 🤝 NSS Volunteer
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jainrajgit&show_icons=true&theme=tokyonight" />
@@ -88,7 +84,7 @@ A GUI application for efficient retail store sales and inventory tracking.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jainrajgit&theme=onedark&column=3" />
@@ -96,7 +92,7 @@ A GUI application for efficient retail store sales and inventory tracking.
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jain-raj-a-b03843347)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:ajainraj013@gmail.com)  
@@ -106,8 +102,11 @@ A GUI application for efficient retail store sales and inventory tracking.
 
 ## 🎉 Just for Fun
 
-![Fun GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
 > 💬 *"Turning creativity into code and dreams into digital reality."*
+
